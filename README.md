@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey Leute! 👋
 
-<!--
-**xavoyx/xavoyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich interessiere mich leidenschaftlich für das Programmieren
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,vscode)](https://skillicons.dev)
+
+## 🚀 Mein Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
+
+## 📈 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
