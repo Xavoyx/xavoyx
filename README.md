@@ -12,7 +12,9 @@ Willkommen auf meinem GitHub-Profil! Ich interessiere mich leidenschaftlich für
 
 ## 📈 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight) 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=xavoyx&theme=tokyonight)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=tokyonight) 
 
 [![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
