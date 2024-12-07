@@ -3,7 +3,7 @@
 Willkommen auf meinem GitHub-Profil! Ich interessiere mich leidenschaftlich für das Programmieren
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,vscode)](https://skillicons.dev)
 
