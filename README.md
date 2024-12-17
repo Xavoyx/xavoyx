@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Xav!
+# ⚓ Hi, I'm Xav!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
 
 
-## ✓ Skills  
+## Skills  
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,py,webstorm,discord)](https://skillicons.dev)
 
 
-## ✓ GitHub Stats
+## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=tokyonight) 
 
 
