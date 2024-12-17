@@ -12,8 +12,7 @@ I develop web projects, Discord bots and create designs for Discord servers, log
 ---
 
 ## 🚀 Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pycharm,webstorm,vscode,discord,bots,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,webstorm,discord)](https://skillicons.dev)
 
 ---
 
