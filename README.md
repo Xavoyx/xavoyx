@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Xav!
 
-Welcome to my GitHub profile! I am passionate about programming
-Head of **X Development** and founder of **Wuppertal Developers**.  
-I develop web projects, Discord bots and create designs for Discord servers, logos & more.
+- Welcome to my GitHub profile! I am passionate about programming
+- Head of **X Development** and founder of **Wuppertal Developers**.  
+- I develop web projects, Discord bots and create designs for Discord servers, logos & more.
 
 
 ## 🌍 Discord
