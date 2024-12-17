@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin [Dein Name]!
+# 👋 Hi, ich bin Xav!
 
 Leiter von **Wuppertal Developers** und Gründer von **X Design**.  
 Ich entwickle Web-Projekte, Roblox-Features und gestalte Designs für Discord-Server, Logos & mehr.
