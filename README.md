@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Xav!
 
-- Welcome to my GitHub profile! I am passionate about programming
-- Head of **X Development** and founder of **Wuppertal Developers**.  
-- I develop web projects, Discord bots and create designs for Discord servers, logos & more.
-
-
-## 🌍 Discord
+### 🌍 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
 
 
