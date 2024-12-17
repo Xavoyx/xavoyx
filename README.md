@@ -1,7 +1,8 @@
-# 👋 Hi, ich bin Xav!
+# 👋 Hi, I'm Xav!
 
-Leiter von **Wuppertal Developers** und Gründer von **X Design**.  
-Ich entwickle Web-Projekte, Roblox-Features und gestalte Designs für Discord-Server, Logos & mehr.
+Welcome to my GitHub profile! I am passionate about programming
+Head of **X Development** and founder of **Wuppertal Developers**.  
+I develop web projects, Discord bots and create designs for Discord servers, logos & more.
 
 ---
 
@@ -26,4 +27,4 @@ Ich entwickle Web-Projekte, Roblox-Features und gestalte Designs für Discord-Se
 
 [![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-🌟 Lass gerne ein Follow da!
+🌟 Feel free to leave a follow!
