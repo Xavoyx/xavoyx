@@ -13,15 +13,12 @@ I develop web projects, Discord bots and create designs for Discord servers, log
 
 ## 🚀 Skills  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=pycharm,webstorm,vscode,discord,bots,windows,)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=tokyonight) 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xavoyx&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
