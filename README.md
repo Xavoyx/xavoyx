@@ -1,6 +1,6 @@
 # ⚓ Hi, I'm Xav!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1254079221811118120)](https://discord.com/users/1254079221811118120)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
 
 
 ## Skills  
