@@ -7,5 +7,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-🌟 Feel free to leave a follow!
