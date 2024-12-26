@@ -2,11 +2,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
 
-
-## Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,py,webstorm,discord)](https://skillicons.dev)
-
-
 ## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=tokyonight) 
 
